@@ -1,6 +1,6 @@
 # breast_cancer
 
-## Data set
+## Dataset
 https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
 
 Breast cancer is the most common cancer amongst women in the world. It accounts for 25% of all cancer cases,
